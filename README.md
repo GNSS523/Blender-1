@@ -2,7 +2,7 @@
 #test mode：xi2017.8.23_1.blend function：
 parkinglot_line_xi22.py 
  
- 1.随机产生渲染车辆总数
+  1.随机产生渲染车辆总数
  
  2. 创造新的车辆
  
@@ -22,7 +22,7 @@ parkinglot_line_xi22.py
  
  parkinglot_line_xi22.py function
  
- 1.随机产生渲染车辆总数
+   1.随机产生渲染车辆总数
  
  2. 创造新的车辆
  
